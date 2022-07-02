@@ -1,0 +1,13 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "seu-id-na-aws.dkr.ecr.sua-regiao-na-aws.amazonaws.com/producao-aluraflix:v1",
+      "Update": "true"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 8000        
+      }
+    ]
+  }
+            
